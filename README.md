@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](luissantillan1794@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluis99378401)](https://twitter.com/luis99378401)
 
-Bienvenido a mi página de Github! Soy Luis, actualmente estoy en busca de trabajo y proyectos!
+Welcome to my Github page! I am Luis, currently looking for work and projects.
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
