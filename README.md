@@ -33,13 +33,13 @@ Welcome to my Github page! I am Luis, currently looking for work and projects.
 <br />
 <code><img width="7%" src="https://img.icons8.com/ios-filled/100/000000/networking-manager.png"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="7%" src="https://img.icons8.com/color/96/000000/c-programming.png"></code>
-<code><img width="7%" src="https://img.icons8.com/ios-filled/100/000000/server-windows.png"></code>
-<code><img width="7%" src="https://img.icons8.com/color/48/000000/ansible.png"></code>
-<br />
-<code><img src="https://img.icons8.com/dusk/64/000000/server.png"></code>
 <code><img width="7%" src="https://img.icons8.com/color/96/000000/amazon-web-services.png"></code>
+<code><img width="7%" src="https://img.icons8.com/ios-filled/100/000000/server-windows.png"></code>
+<code><img src="https://img.icons8.com/dusk/64/000000/server.png"></code>
+<br />
 <code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<!--<code><img width="7%" src="https://img.icons8.com/color/96/000000/c-programming.png"></code>-->
+<!--<code><img width="7%" src="https://img.icons8.com/color/48/000000/ansible.png"></code>-->
