@@ -1,45 +1,36 @@
-### Hi 👋
-### This is Luis Santillán!
+<h1 align="center">Hi 👋, I'm Luis Santillán</h1>
+<h3 align="center">In Love with Excellence in SRE and DevOps Culture: Driving Innovation and Performance in Technology Environments</h3>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LSanti94)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-santill%C3%A1n-piedra-63922811a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](luissantillan1794@gmail.com)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluis99378401)](https://twitter.com/luis99378401)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsanti94&label=Profile%20views&color=0e75b6&style=flat" alt="lsanti94" /> </p>
 
-Welcome to my Github page! I am Luis, currently looking for work and projects.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsanti94" alt="lsanti94" /></a> </p>
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<p align="left"> <a href="https://twitter.com/@luis99378401" target="blank"><img src="https://img.shields.io/twitter/follow/@luis99378401?logo=twitter&style=for-the-badge" alt="@luis99378401" /></a> </p>
 
-#### 🔭 Things I am currently working on:
-- :rocket: Learning English
-- strengthen my knowledge in networks
-- Learn language Go
-- 🌱 In the future I will add a documentation in English.
+- 🔭 I’m currently working on [Programing Web-Colmena](https://github.com/LSanti94/WEB_SITE)
 
-#### :muscle: Things I am challenging myself with:
-- Creating my own documentation, projects and learning
-- improve my logic by automating
-- Learn something new every day
+- 🌱 I’m currently learning **Kubernetes, Python and Go**
 
-#### :computer: Languages and tools:
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=LSanti94&show_icons=true&hide_border=true" />
+- 👯 I’m looking to collaborate on [OpenIA](https://github.com/xedinsonx/OpenIA)
 
-<code><img width="8%" src="https://img.icons8.com/color/96/000000/linux.png"></code>
-<code><img width="8%" src="https://img.icons8.com/color/96/000000/docker.png"></code>
-<code><img width="8%" src="https://img.icons8.com/color/96/000000/free-bsd.png"></code>
-<code><img width="8%" src="https://img.icons8.com/color/96/000000/html-5--v1.png"></code>
-<code><img width="8%" src="https://img.icons8.com/color/96/000000/css3.png"></code>
-<br />
-<code><img width="7%" src="https://img.icons8.com/ios-filled/100/000000/networking-manager.png"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="7%" src="https://img.icons8.com/color/96/000000/amazon-web-services.png"></code>
-<code><img width="7%" src="https://img.icons8.com/ios-filled/100/000000/server-windows.png"></code>
-<code><img src="https://img.icons8.com/dusk/64/000000/server.png"></code>
-<code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br />
+- 💬 Ask me about **Docker, Azure, AWS, Ansible**
+
+- 📫 How to reach me **luissantillan1794@gmail.com**
+
+- ⚡ Fun fact **I enjoy sports, playing video games, and learning to program as a hobby.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@luis99378401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luis99378401" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis santillán piedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis santillán piedra" height="30" width="40" /></a>
+<a href="https://discord.gg/ls#3592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ls#3592" height="30" width="40" /></a>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
-<!--<code><img width="7%" src="https://img.icons8.com/color/96/000000/c-programming.png"></code>-->
-<!--<code><img width="7%" src="https://img.icons8.com/color/48/000000/ansible.png"></code>-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsanti94&show_icons=true&locale=en&layout=compact" alt="lsanti94" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsanti94&show_icons=true&locale=en" alt="lsanti94" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lsanti94&" alt="lsanti94" /></p>
