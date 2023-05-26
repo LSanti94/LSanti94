@@ -22,8 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@luis99378401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luis99378401" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis santillán piedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis santillán piedra" height="30" width="40" /></a>
-<a href="https://discord.gg/ls#3592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ls#3592" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luissantill%C3%A1n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis santillán piedra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
