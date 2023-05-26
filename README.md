@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Santillán</h1>
-<h3 align="center">In Love with Excellence in SRE and DevOps Culture: Driving Innovation and Performance in Technology Environments</h3>
+<h3 align="center">I am in love with excellence in SRE and the DevOps culture: I drive innovation and performance in technology environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsanti94&label=Profile%20views&color=0e75b6&style=flat" alt="lsanti94" /> </p>
 
