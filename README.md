@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Docker, Azure, AWS, Ansible**
 
-- 📫 How to reach me **luissantillan1794@gmail.com**
-
 - ⚡ Fun fact **I enjoy sports, playing video games, and learning to program as a hobby.**
 
 <h3 align="left">Connect with me:</h3>
