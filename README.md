@@ -58,9 +58,9 @@ Grafana • Elasticsearch • SonarQube • Nexus • Artifactory • Git • Li
 
 ## 🌐 Connect With Me
 
-* Twitter: @luis99378401
-* GitHub: https://github.com/lsanti94
-* LinkedIn: Luis Santillán Piedra
+* Twitter: [Luis Santillan](https://twitter.com/luis99378401)
+* GitHub: [LSanti94](https://github.com/lsanti94)
+* LinkedIn: [Luis Santillán Piedra](https://www.linkedin.com/in/luissantillanpiedra/)
 
 ---
 
